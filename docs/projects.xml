@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sam Shanny-Csik</title>
+<link>https://samanthacsik.github.io/projects.html</link>
+<atom:link href="https://samanthacsik.github.io/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Tue, 10 Feb 2026 04:05:59 GMT</lastBuildDate>
+<item>
+  <title>Strava Dashboard</title>
+  <link>https://samanthacsik.github.io/projects/2022-11-23-strava-dashboard/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://samanthacsik.shinyapps.io/strava_dashboard/" class="btn" target="_blank"><i class="fa-brands fa-r-project" aria-label="r-project"></i> dashboard</a> <a href="https://github.com/samanthacsik/strava-dashboard" class="btn" target="_blank"><i class="fa-brands fa-github" aria-label="github"></i> source code</a></p>
+<p><br></p>
+<!-- # Motivation -->
+<p>It doesn’t get much better than playing around with data that mean a lot to you. For me, that’s my Strava data (yes, I do recognize that that might sound a bit silly) – I’m fortunate enough to have near-immediate access to some of the greatest hiking trails around (yes, I also recognize that I’m totally biased), and spending my free time romping around our local mountains has been so important for my mental health. <em>So,</em> when I was ready to do my first real deep-dive into learning how to build Shiny apps and dashboards, I knew these were the data I needed to use.</p>
+<!-- # What's on the dashboard? -->
+<p>This is very much an ongoing work in-progress, but the first version included a “Gear Garage” for tracking mileage on my hiking boots and bike, an activity heat map of all recorded hikes, bike rides, and walks, visualizations for exploring activity distance and elevation gain, and an interactive table of the raw data.</p>
+<p>There are many more visualizations and features I’d love to add (but have been severely lacking the time to do so). I also still manually retrieve new activities using the Strava API via the <a href="https://github.com/fawda123/rStrava"><code>{rStrava}</code> package</a>, but I hope to automate this in the next version. Stay tuned!</p>
+<p><br></p>
+<p><img class="img-styling" src="https://samanthacsik.github.io/projects/2022-11-23-strava-dashboard/cathedral-peak.jpeg" alt="A woman stands on top of a rocky peak with blue sky and chapparal-covered mountains in the background. Blue sky is visible to the left, and foggy, dark clouds are rolling in from the right." width="70%"></p>
+<div class="gray-italic center-text">
+<p>Cathedral Peak, Santa Barbara, CA</p>
+</div>
+
+
+
+ ]]></description>
+  <category>Shiny</category>
+  <guid>https://samanthacsik.github.io/projects/2022-11-23-strava-dashboard/</guid>
+  <pubDate>Tue, 10 Feb 2026 04:05:59 GMT</pubDate>
+  <media:content url="https://samanthacsik.github.io/projects/2022-11-23-strava-dashboard/strava-logo-white-bg.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Bren Student Data Explorer</title>
+  <link>https://samanthacsik.github.io/projects/2023-02-15-bren-student-data-explorer/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://shinyapps.bren.ucsb.edu/student-data-explorer/" class="btn" target="_blank"><i class="fa-brands fa-r-project" aria-label="r-project"></i> shiny dashboard</a> <a href="https://github.com/UCSB-MEDS/shiny-dashboard" class="btn" target="_blank"><i class="fa-brands fa-github" aria-label="github"></i> source code</a></p>
+<p><br></p>
+<p>In an effort to increase transparency surrounding student demographics and post-graduation career placement statistics, <a href="https://bren.ucsb.edu/">The Bren School</a> hired R Shiny Developer Fellow, <a href="https://github.com/hdolinh/">Halina Do-Linh</a> in summer 2022. Halina designed and built v1.0 of the public-facing <a href="https://shinyapps.bren.ucsb.edu/student-data-explorer/">dashboard</a> for exploring these data.</p>
+<p>Since then, the proverbial torch was passed to me for continued maintenance and updates. I collaborate with the Bren Admissions and <a href="https://bren.ucsb.edu/career-services">Career Services</a> Teams, as well as MEDS Program Coordinator, <a href="https://www.jamiecmontgomery.com/">Jamie Montgomery</a>, to update data, modify visuals, and refactor the code, as needed, each year. My most significant contribution so far is the Spring 2025 refactor and development of comprehensive wiki documentation. This rewrite focused on establishing a consistent, organized code structure and workflow, and on clearly documenting a standard operating procedure to support future updates.</p>
+<p><br></p>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://samanthacsik.github.io/projects/2023-02-15-bren-student-data-explorer/dashboard.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:95.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<!-- <img class="center-img" src="dashboard.png" width="70%"> -->
+<div class="gray-italic center-text">
+<p>The Career Outcomes page of the Bren Student Data Explorer, accessible at <a href="https://shinyapps.bren.ucsb.edu/student-data-explorer/" target="_blank">https://shinyapps.bren.ucsb.edu/student-data-explorer/</a></p>
+</div>
+</div>
+<div class="g-col-12 g-col-md-6">
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://samanthacsik.github.io/projects/2023-02-15-bren-student-data-explorer/wiki.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:95.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+<!-- <img class="center-img" src="dashboard.png" width="70%"> -->
+<div class="gray-italic center-text">
+<p>The Bren Student Data Explorer <a href="https://github.com/UCSB-MEDS/shiny-dashboard/wiki" target="_blank">wiki</a>, which houses documentation and detailed instructions for updating and Maintaining the dashboard</p>
+</div>
+</div>
+</div>
+<!-- alt="A online dashboard with a banner image depicting the Bren School building with the ocean to the left. Atop the image reads in all capital letters, 'BREN STUDENT DATA EXPLORER'. Beneath the banner image are two side-by-side boxes with text. The top of the left-hand box reads, 'Learn about students at the Bren School', and the top of the right-hand box reads, 'About the data'. A left-hand sidebar indicates that we're viewing the Welcome page. Two other pages are listed below: Demographics and Career Outcomes."  -->
+
+
+
+ ]]></description>
+  <category>Shiny</category>
+  <guid>https://samanthacsik.github.io/projects/2023-02-15-bren-student-data-explorer/</guid>
+  <pubDate>Tue, 10 Feb 2026 04:05:59 GMT</pubDate>
+  <media:content url="https://samanthacsik.github.io/projects/2023-02-15-bren-student-data-explorer/bren-hex-white-bg.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Openscapes Website</title>
+  <link>https://samanthacsik.github.io/projects/2023-06-22-openscapes-website-dev/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://openscapes.org/" class="btn" target="_blank"><i class="fa-solid fa-laptop" aria-label="laptop"></i> Openscapes website</a> <a href="https://github.com/Openscapes/website-new" class="btn" target="_blank"><i class="fa-brands fa-github" aria-label="github"></i> source code</a> <a href="../../posts/2023-08-01-openscapes-website/index.html" class="btn" target="_blank"><i class="fa-solid fa-blog" aria-label="blog"></i> blogpost</a></p>
+<p><br></p>
+<!-- # Project overview -->
+<p>My first freelancing adventure(!) was spent porting the <a href="https://openscapes.org/">Openscapes website</a> from <a href="https://bookdown.org/yihui/blogdown/"><code>{blogdown}</code></a> to <a href="https://quarto.org/">Quarto</a> and redesigning aspects of the website’s layout, styling, and overall functionality. I worked closely with <a href="https://jules32.github.io/">Julie Lowndes</a> (founding director of Openscapes) and <a href="https://stefaniebutland.netlify.app/">Stefanie Butland</a> (core Openscapes team member) to bring their vision to life and it was <em>seriously</em> such a fun project. I wrote a <a href="../../posts/2023-08-01-openscapes-website/index.html">blog post</a> about my experience / some of the highlights. Check it out!</p>
+<p><br></p>
+<p><img class="img-styling" src="https://samanthacsik.github.io/projects/2023-06-22-openscapes-website-dev/sy-river.jpeg" alt="A river runs from left to right with a low rocky bank on the left side and a taller tree-covered bluff on the right." width="70%"></p>
+<div class="gray-italic center-text">
+<p>Santa Ynez River, Santa Barbara, CA, where Julie and I spent time brainstorming ideas for the Openscapes website</p>
+</div>
+
+
+
+ ]]></description>
+  <category>Quarto website</category>
+  <guid>https://samanthacsik.github.io/projects/2023-06-22-openscapes-website-dev/</guid>
+  <pubDate>Tue, 10 Feb 2026 04:05:59 GMT</pubDate>
+  <media:content url="https://samanthacsik.github.io/projects/2023-06-22-openscapes-website-dev/openscapes-hex-white-bg.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+</channel>
+</rss>

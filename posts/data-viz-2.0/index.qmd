@@ -1,0 +1,29 @@
+---
+title: "Data Viz 3.0"
+description: |
+  changes to EDS 240 in our third (and final) year
+date: 2025-04-01
+citation: 
+  url: https://samanthacsik.github.io/posts/data-viz-3.0/
+categories: [MEDS, R, data-visualization, pedagogy, curriculum-development]
+# image: media/tbd
+draft: true
+draft-mode: unlinked
+---
+
+- Deb Perrone: everyone thinks that year 2 will be easy, but really it takes 3 years. Can confirm that this is true 
+- moved website and all materials into a dedicated GitHub organization (HT: Ruth Oliver)
+- changes to website structure -- daily materials organized by:
+  - pre-class prep
+  - lecture materials with templates and keys that pair with slides (organized in table)
+  - pre-discussion prep
+  - discussion materials (organized in table)
+- template .qmd files
+- started wiki
+- googlesheet for learning partners
+- Annie's token tracker
+- Annie's suggestion to use GradeScope
+- Collaborating with Alex on bringing in Affinity workshop
+- published all assignments at the start of the quarter 
+- revisions to grade tracker
+- AI integration / allowance
