@@ -16,5 +16,5 @@ knitr::include_graphics("images/404.png")
 ::: {.center-text .large-text .josefin-font}
 Oops, the page you are looking for is missing or may have moved! 
 
-Consider searching for some key words {{< fa magnifying-glass title="magnifying glass" >}} or [reach out](mailto:scsik@ucsb.edu) {{< fa envelope title="envelope" >}}
+Consider searching for some key words {{< fa magnifying-glass title="magnifying glass" >}} or [reach out](mailto:electleemccoy@gmail.com) {{< fa envelope title="envelope" >}}
 :::

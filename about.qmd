@@ -1,245 +1,120 @@
 ---
 title: "about"
-subtitle: "a bit more about me, both inside and outside of my job"
+subtitle: "why I am running"
 title-block-banner: true
 ---
 
-## {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} the profession
+Hamilton is a special place. I am thankful that my family lives in such a beautiful town with such a strong sense of community. I have come to appreciate how its strength comes from its people — those who have lived here for generations and those who have chosen to make it their home more recently.
 
-I develop and teach data science training curricula and coordinate group Capstone projects for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science){target="_blank"} (MEDS) program at the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/){target="_blank"}, located at UC Santa Barbara. I also help lead strategic planning for data science curriculum offerings across the Bren School. In my spare time, I'm a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/){target="_blank"}, a local data science group which works to promote gender diversity in the R community.
+## my commitment
 
-<!-- I'm the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) and a lecturer at the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/), both located at UC Santa Barbara, where I'm working to develop and teach data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/), a local data science group which works to promote gender diversity in the R community. -->
+{{< fa users >}}  Preserve Hamilton's strong sense of community  
+{{< fa school >}}  Protect and sustain our excellent schools  
+{{< fa scale-balanced >}}  Make thoughtful, responsible financial decisions  
+{{< fa eye >}}  Ensure transparency and accountability  
+{{< fa compass >}}  Plan carefully for the future while respecting our past  
 
-My background is in marine ecology and ecophysiology -- I had opportunities to study coral disease in Panama and the Florida Keys as an undergrad, then temperature effects on spiny lobster metabolism and foraging behavior in Santa Barbara for my Masters degree. Since the beginning of my time in STEM, I was totally terrified of all things data, coding, and data science (that wasn't even a widely-used term when I was still in school!), but thanks to a super supportive community and some really rad colleagues and instructors, I found my new path in data science education and I absolutely *love* it.
+And I will **always** listen, collaborate, and work hard to ensure Hamilton remains a place where all people can live, thrive, and belong.
 
-<img class="img-styling" src="images/teaching.jpeg" alt="A classroom full of students face forward towards the instructor, who stands at a podium at the front of the room. Students have their laptops open on their desks. Three large TV screens are illuminated at the front of the classroom, displaying workshop materials." width="70%">
-
-::: {.center-text .small-text .dark-gray-text}
-*Teaching MEDS students how to build their own personal websites using Quarto. This was especially fun for me, since Quarto was still such a new tool when I first gave this workshop -- it meant a lot of discovery and learning on-the-fly alongside our students.*
-:::
-
-<!-- :::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "A classroom full of students face forward towards the instructor, who stands at a podium at the front of the room. Students have their laptops open on their desks. Three large TV screens are illuminated at the front of the classroom, displaying workshop materials."
-knitr::include_graphics("images/teaching.jpeg")
-```
-::: {.center-text .extra-small-text .dark-gray-text .topbr}
-Teaching MEDS students how to build their own personal websites using Quarto! This was especially fun for me, since Quarto was still such a new tool when I first gave this workshop -- it meant a lot of discovery and learning on-the-fly alongside our students.
-:::
-::: -->
-
-While a large part of my role is now program coordination and strategic planning, my passion lies in teaching and working directly with students. I've developed a number of workshops and elective courses that supplement the MEDS core curriculum and aim to prepare students with technical and professional skills needed as they move into the workforce (read about our [Career & Professional Development Workshop Series](courses/career-dev/index.qmd){target="_blank"}, which is one that I'm particularly excited about). I also teach [EDS 240: Data Visualization & Communication](courses/eds-240-data-viz/index.qmd){target="_blank"}, which is one of the MEDS core courses. This was my first opportunity to think deeply about and experiment with alternative grading approaches, which you can read more about in this reflective [blog post](posts/2024-04-02-data-viz-course/index.qmd){target="_blank"} that I wrote after my first year of teaching the class. I am always looking for new ways to make my teaching style and materials more approachable and inclusive for all learners -- I try to build my content to be stand-alone resources, both for participants to refer back to and also for those learning on their own time. Feel free to check out / reuse / recycle any of my [workshop](talks_workshops.qmd){target="_blank"} and [course](courses.qmd){target="_blank"} materials.
-
-<!-- I'm afforded a lot of flexibility in how I teach and what I teach. My focus is on developing and delivering workshop-style classes that supplement the [MEDS core curriculum](https://ucsb-meds.github.io/courses.html){target="_blank"}, though I'm now (as of Winter 2024) also teaching one of those core courses, [EDS 240: Data Visualization & Communication](https://eds-240-data-viz.github.io/){target="_blank"} (I reflect on building and teaching EDS 240 in [this blog post](posts/2024-04-02-data-viz-course/index.qmd){target="_blank"}). I teach primarily via live-coding (where my computer is hooked up to a screen for participants to see and hear me talk through code in real time as they follow along on their own computers) -- this teaching style was invaluable in my own development as a data scientist, and I really believe that, when done well, live-coding can be a game-changing experience for early-career programmers. I am always looking for new ways to make my teaching style and materials more approachable and inclusive for all learners -- I try to build my content to be stand-alone resources, both for participants to refer back to and also for those learning on their own time. Feel free to check out / reuse / recycle any of my [workshop](talks_workshops.qmd){target="_blank"} and [course](courses.qmd){target="_blank"} materials. -->
-
-## {{< fa hiking title="A person with a backpack and trekking pole" >}} the hobby 
-
-I feel very fortunate to be doing so many of things that I love *a lot* right now. That includes my job, but also spending lots of time outdoors. Living in Santa Barbara is a massive privilege and being here means that we have access to both the mountains and the sea, each a few minutes in either direction. It was the ocean that brought me here originally, but most of my free time is now spent on the trails.
-
-<img class="img-styling" src="images/tallie2.jpeg" alt="A smiling woman wearing a green hat crouches down next to a brown dog for a selfie. The dog is looking towards the camera with it's tongue out." width="70%">
-
-::: {.center-text .small-text .dark-gray-text}
-*My right-hand hiking gal, Tallie (aka Bean aka TunaB aka SweetCheeks).*
-:::
-
-<!-- :::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "A smiling woman with braiding pigtails, a blue bandana tied around her neck, and a blue hiking backback takes a selfie with a brown dog. The dog is looking towards the camera with it's tongue out. There are mountains in the background."
-knitr::include_graphics("images/tallie2.jpeg")
-```
-::: {.center-text .extra-small-text .dark-gray-text .topbr}
-My right-hand hiking gal, Tallie (aka Bean aka TunaB aka SweetCheeks).
-:::
-::: -->
-
-I started recording my hikes (and eventually some other activities) on [Strava](https://www.strava.com/){target="_blank"} in late 2020 and finally got around to retrieving my activity data using the [`{rStrava}`](https://github.com/fawda123/rStrava){target="_blank"} package. Below is a heatmap of all my recorded activities made using [`{leaflet}`](https://rstudio.github.io/leaflet/){target="_blank"}. It's challenging to see individual markers at my most frequented trailheads / starting points (toggle markers on using the layer controls in the top right corner), so I built my own Strava Dashboard (using [`{shinydashboard}`](https://rstudio.github.io/shinydashboard/){target="_blank"}) to make it a bit more interactive and filterable. It's a work in progress, but a fun side project that I continue to iterate upon when I'm looking to learn some new skills. Huge shout out to [Daniel Cullen](https://www.dancullen.me/){target="_blank"} for his awesome [blog post](https://www.dancullen.me/articles/creating-a-heatmap-in-r-with-google-polylines){target="_blank"} that got me started with my own map.
-
-```{r}
-#| eval: true
-#| echo: false
-#| warning: false
-#| message: false
-#| fig-align: "center"
-#| out-width: "100%"
-#..........................load packages.........................
-library(rStrava) 
-library(tidyverse)
-library(leaflet)
-library(googleway)
-library(htmlwidgets)
-library(htmltools)
-library(aws.s3)
-
-#......................read in data from S3......................
-acts <- s3readRDS(object = "wrangled_activities.rds",
-                  bucket = "sams-strava-dashboard-data")
-
-#...................create subsets by activity...................
-hike_data <- acts %>% filter(sport_type == "Hike")
-ride_data <- acts %>% filter(sport_type %in% c("Ride", "GravelRide"))
-walk_data <- acts %>% filter(sport_type == "Walk")
-
-#........................make custom icons.......................
-hiker_icon_custom <- makeIcon(
-  iconUrl = "images/hiker.png",
-  iconWidth = 20, iconHeight = 20
-)
-
-bike_icon_custom <- makeIcon(
-  iconUrl = "images/bike.png",
-  iconWidth = 22, iconHeight = 25
-)
-
-walk_icon_custom <- makeIcon(
-  iconUrl = "images/walker.png",
-  iconWidth = 13, iconHeight = 18
-)
-
-#........................create base map.........................
-map <- leaflet() %>% 
-  
-  # add tiles ----
-  addProviderTiles(providers$Esri.WorldTerrain, group = "ESRI Terrain",
-                   options = providerTileOptions(maxZoom = 100)) |> 
-  
-  # add miniMap (corner) ----
-  addMiniMap(toggleDisplay = TRUE) |>
-  
-  # set view over Santa Barbara ----
-  setView(lng = -119.753042, lat = 34.484782, zoom = 10) |> 
-  
-  # add clickable hiker markers with info about each hike ----
-  addMarkers(data = hike_data, icon = hiker_icon_custom, 
-             group = "Display Hike Icons", 
-             lng = ~jitter(lng, factor = 0.01), lat = ~jitter(lat, factor = 0.01),
-             popup = paste("Hike Title:", hike_data$name, "<br>",
-                           "Distance (miles):", hike_data$total_miles, "<br>",
-                           "Elevation gain (ft):", hike_data$elevation_gain_ft)) |>
-
-  # add clickable bike markers with info about each ride ---- 
-  addMarkers(data = ride_data, icon = bike_icon_custom, 
-             group = "Display Bike Ride Icons",
-             lng = ~jitter(lng, factor = 0.01), lat = ~jitter(lat, factor = 0.01),
-             popup = paste("Ride Title:", ride_data$name, "<br>",
-                           "Distance (miles):", ride_data$total_miles, "<br>",
-                           "Elevation gain (ft):", ride_data$elevation_gain_ft)) |>
-
-  # add clickable walker markers with info about each walk ----
-  addMarkers(data = walk_data, icon = walk_icon_custom, 
-             group = "Display Walk Icons",
-             lng = ~jitter(lng, factor = 0.01), lat = ~jitter(lat, factor = 0.01),
-             popup = paste("Walk Title:", walk_data$name, "<br>",
-                           "Distance (miles):", walk_data$total_miles, "<br>",
-                           "Elevation gain (ft):", walk_data$elevation_gain_ft)) |>
-
-  # allow for toggling makers on/off ----
-  addLayersControl(
-    overlayGroups = c("Display Hike Icons", "Display Bike Ride Icons", "Display Walk Icons"),
-    options = layersControlOptions(collapsed = TRUE)
-  ) |>
-  
-  # hide all three groups icons by default ----
-  hideGroup(c("Display Hike Icons", "Display Bike Ride Icons", "Display Walk Icons")) |> 
-  
-  # add heatmap legend ----
-  addLegend(colors = c("#b35702", "#744082", "#366643"),
-            labels = c("Hike", "Ride", "Walk"), 
-            position = "bottomleft") |> 
-  
-  # add reset map button ----
-  leaflet.extras::addResetMapButton()
-
-#....................get unique activity ids.....................
-unique_acts_ids <- unique(acts$id)
-
-#.............iterate over activities and add to map.............
-for (i in unique_acts_ids) {
-  
-  # 1) get activity
-  activity <- filter(acts, id == i)
-  
-  # 2) decode polyline
-  coords <- googleway::decode_pl(activity$map.summary_polyline)
-  
-  #3) plot activity trace on basemap; color-code according to activity type
-  if (activity$sport_type %in% c("Ride", "GravelRide")) {
-    map <- addPolylines(map, lng = coords$lon, lat = coords$lat,
-                      color = "#744082", opacity = 2/4, weight = 2) #070A8D (tried cb-friendly; not great on map though #3D0C02)
-  } else if (activity$sport_type == "Hike") { 
-    map <- addPolylines(map, lng = coords$lon, lat = coords$lat,
-                      color = "#b35702", opacity = 2/4, weight = 2) #DF0101 #b35702
-  } else if (activity$sport_type == "Walk") {
-   map  <- addPolylines(map, lng = coords$lon, lat = coords$lat,
-                      color = "#366643", opacity = 2/4, weight = 2) #0F9020  (tried cb-friendly; not graet on map though #114C54)
-  }
-   
-}
-
-#............................print map...........................
-map
-```
+---
 
 <br>
 
+## my background
 
-<p class="large-text dark-green-bg center-text">{{< fa arrow-pointer >}} For a more interactive experience, click around my [Strava dashboard](https://samanthacsik.shinyapps.io/strava_dashboard/){target="_blank"} <br> {{< fa brands github >}} Source code available on [GitHub](https://github.com/samanthacsik/strava-dashboard){target="_blank"}</p>
+I am an ecologist and data scientist who has dedicated my career to public service, environmental stewardship, and solving complex problems.
 
-<!-- NOTE: large space between last line of text and bottom of gray background when using quarto syntax, so sticking with HTML syntax above -->
+#### {{< fa briefcase >}} Professional Experience
 
-## {{< fa egg title="An egg" >}} the logo
 
-**Update 2024-12-02:** My logo just got a little bit longer! I got married (a little while ago actually! April 22, 2023) and my husband, Brendan, and I decided to hyphenate our names. We're officially the Shanny-Csik's and are both excited to join our family names {{< fa heart title="heart" >}}.
+- {{< fa flask >}} **Data Scientist**, Pfizer  
+  *Biopharmaceutical production and operational efficiency*
 
-I'm a proud Csik (pronounced "chick" -- Hungarian<sup>1</sup>, for the curious), though I spent many of my younger years embarrassed when people (understandably) got it wrong (variations include "sea-sick," "sick," "ca-sick," to name a few) -- and many of us know how brutal little kid peers can be when there's a funny way to mispronounce a name. At some point, I learned to embrace the weird and it became very much a part of my everyday identity. My track coaches and teammates would shout "LET'S GO CSIK" during my events at meets, I signed year books as "Sam [drawing of a chick]" and every handmade card received my "The Csik Press" identifying mark on the back. As I've grown older, I've taken more care to help colleagues, peers, and strangers learn the correct pronunciation -- because if I'm being totally honest, I think my name is pretty darn cool `r fontawesome::fa("smile-wink", fill = "#64605F", a11y = "sem")`. So my first ever *real* logo is an homage to my earliest attempts at claiming my Csik identity. It may evolve a bit, but for now, it makes me pretty happy. Made using the (free!) [Adobe Express logo maker](https://www.adobe.com/express/create/logo){target="_blank"}.
+- {{< fa chart-line >}} **Data Scientist**, National Park Service  
+  *Natural Resource Inventory & Monitoring*
 
-:::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "The back of a handmade card made of construction paper. A yellow chick with an orange beak holds an 'S'-shaped worm in its beak. It sits on top of the text, 'The Csik Press'. Below this, the year '2010' is written in pen."
-knitr::include_graphics("images/the_csik_press.jpeg")
-```
-::: {.center-text .extra-small-text .dark-gray-text .topbr}
-*The back of a handmade birthday card by yours truly (aka 'The Csik Press'). Thanks, Mom, for sending me pics of these decade+ old treasures whenever you come across them. Artist: Sam Csik. Medium: construction paper, Elmer's glue. Date: 2010 (apparently).*
-:::
-:::
+- {{< fa leaf >}} **Ecologist**, USDA Agricultural Research Service  
+  *Oyster aquaculture and ecosystem health*
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| fig-width: 5
-#| fig-height: 3
-#| fig-alt: "The name, 'sam shanny-csik' in white lettering. Above 'csik' sits a horizontal dark green bar. Above the green bar is a white chick."
-knitr::include_graphics("images/logos/shanny-csik-logo-transparent-light.png")
-```
 
-<div class="dark-green-bg"><sup>1</sup>**[Chicken paprikash](https://en.wikipedia.org/wiki/Chicken_paprikash){target="_blank"}** is a popular Hungarian dish, my ultimate comfort food, and the meal my mom would make during each of my trips home throughout college. Our recipe, which necessitates a fresh batch of spätzle on the side:
+#### {{< fa landmark >}} Community Leadership
 
-**Chicken Paprikash**:
+- **Chair, Hamilton Conservation Commission (2025)**  
+  Worked collaboratively with residents, town staff, and regional partners to protect our natural resources while supporting the needs of our community.
+  
+---  
 
-- Onion (1, chopped)
-- Shortening (4 tbsp)
-- Paprika (1 tbsp)
-- Black pepper (1 tsp)
-- Salt (1 tbsp)
-- Chicken (2-3 lbs chicken thighs, cubed)
-- Water (1.5 cups)
-- Sour cream (1.5 cups)
-- Heavy cream (1 cup)
+<br>
+  
 
-Brown onion in shortening. Add seasonings and chicken and brown for 10 minutes. Add water, then cover and let simmer slowly until tender. Remove chicken. Add sour cream and heavy cream to pan drippings / onion and mix well. Add chicken back in and simmer until ready to serve. 
+## promoting community & the future
 
-**Spätzle** (usually tripled):
+Hamilton is defined by its strong sense of community and its commitment to excellence in education. These are not abstract ideals — they are the reason families choose to live here, how property values remain strong, and why longtime residents take pride in calling Hamilton home for generations.
 
-- All-purpose flour (1 cup)
-- Ground nutmeg (1/2 tsp)
-- Salt (1/2 tsp)
-- Ground white pepper (1 pinch)
-- Eggs (2)
-- Milk (1/4 cup)
-- Butter (for pan frying)
-- Shallot (1-2 diced, for pan frying)
+Our parks, schools, and shared spaces are where neighbors become friends and where the next generation develops the skills and values that sustain our town.
 
-Begin boiling a large pot of water while you mix all ingredients (except butter and shallot) in a large bowl. Once the water is boiling, use a spätzle maker (or in a pinch, the large-holed side of a box grater and the back of a wooden spoon) to drop the batter into the boiling water in the shape of little dumplings. Spätzle is done when the dumplings are floating at the surface (they'll be cooked through by the time you're done with the spätzle maker). Pan fry the spätzle with some shallot in small batches. Serve with chicken paprikash!
-</div>
+
+#### {{< fa bullseye title="Goal" >}} Goal
+
+**Deliver on the Patton Park Master Plan** to provide a safe, clean, inviting, and beautiful place for residents of all ages to gather — for birthday parties, youth sports, community events, and everyday recreation.
+
+
+#### {{< fa handshake title="Delivery" >}} Can I Deliver?
+
+My family and I are deeply invested in this community, and I have a knack for organizing and making things happen. Every summer, we host a neighborhood block party attended by 90–150 people, bringing together residents of all ages for food, music, games, and conversation. We also host seasonal gatherings — Easter egg dyeing, pumpkin carving, chili night, and holiday caroling — that strengthen the bonds between neighbors.
+
+My wife and I restored an old farmhouse ourselves — gutting it to the studs and rebuilding it piece by piece. That experience reflects how I approach public service: respecting what came before, investing carefully, and doing the hard work necessary to ensure long-term value. As well as an ability to keep on going even when things are **very** frustrating and seem dire!
+
+Professionally, I have organized scientific forums, led collaborative initiatives, and taken complex projects from planning to completion. Hamilton already has thoughtful plans in place. As a member of the Select Board, I will be a strong advocate for executing those plans responsibly and effectively.
+
+---
+
+<br>
+
+## ensuring safe, clean & sustainable water
+
+Water is fundamental to our health, our environment, and our future. Protecting Hamilton’s water resources is not optional — it is essential to maintaining the quality of life that defines our town.
+
+
+#### {{< fa bullseye title="Goal" >}} Goal
+
+**Work with local, regional, and state partners to ensure Hamilton has safe, clean, and sustainable water.**  This includes addressing PFAS contamination, strengthening conservation efforts, and stabilizing water supplies to reduce environmental stress and minimize severe restrictions.
+
+
+#### {{< fa handshake title="Delivery" >}} Can I Deliver?
+
+I grew up in the Southwest, where water scarcity is a daily reality. That experience shaped my understanding of how precious and fragile water resources can be.
+
+My background in ecology and natural resource management gives me a strong foundation in environmental systems and water stewardship.
+
+As a data scientist, I analyze complex systems and evaluate multiple solutions. As a collaborator, I bring people together to identify practical, cost-effective approaches.
+
+We can protect our water while managing costs responsibly — and I am prepared to help lead that effort.
+
+---
+
+<br>
+
+## promoting civic engagement & government efficiency
+
+Strong communities depend on engaged residents and effective local government. When people feel heard and respected — and when town government operates clearly and responsibly — trust grows and good decisions follow.
+
+
+#### {{< fa bullseye title="Goal" >}} Goal
+
+**Improve civic engagement and ensure town government operates efficiently, transparently, and responsibly.**
+
+
+#### {{< fa compass title="Approach" >}} My Approach
+
+- {{< fa users >}} Increase visibility of volunteer opportunities on boards and commissions  
+
+- {{< fa scale-balanced >}} Balance workloads to prevent burnout and improve effectiveness  
+
+- {{< fa award >}} Recognize and celebrate the contributions of volunteers  
+
+- {{< fa comments >}} Use modern tools to improve communication and participation  
+
+- {{< fa gears >}} Identify opportunities to streamline processes and reduce unnecessary costs  
+
+

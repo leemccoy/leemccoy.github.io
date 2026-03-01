@@ -5,16 +5,16 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Sam Shanny-Csik</title>
-<link>https://samanthacsik.github.io/talks_workshops.html</link>
-<atom:link href="https://samanthacsik.github.io/talks_workshops.xml" rel="self" type="application/rss+xml"/>
+<title>Lee McCoy</title>
+<link>https://leemccoy.github.io/talks_workshops.html</link>
+<atom:link href="https://leemccoy.github.io/talks_workshops.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.5.56</generator>
-<lastBuildDate>Wed, 24 Sep 2025 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Wed, 24 Sep 2025 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Personal branding for environmental data scientists</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2025-09-24-personal-branding/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2025-09-24-personal-branding/</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2025-09-24-personal-branding/branding.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2025-09-24-personal-branding/branding.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -52,14 +52,14 @@
   <category>MEDS</category>
   <category>personal-branding</category>
   <category>career-development</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2025-09-24-personal-branding/</guid>
-  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2025-09-24-personal-branding/branding.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2025-09-24-personal-branding/</guid>
+  <pubDate>Wed, 24 Sep 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2025-09-24-personal-branding/branding.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>A (thoughtful) chart is worth a thousand words</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2025-08-06-datastorytelling/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2025-08-06-datastorytelling/</link>
   <description><![CDATA[ 
 
 
@@ -70,7 +70,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2025-08-06-datastorytelling/warming-stripes.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2025-08-06-datastorytelling/warming-stripes.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
 </figure>
 </div>
 </div>
@@ -96,14 +96,14 @@
  ]]></description>
   <category>data-visualization</category>
   <category>BEL</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2025-08-06-datastorytelling/</guid>
-  <pubDate>Wed, 06 Aug 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2025-08-06-datastorytelling/horst-eco-r4ds.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2025-08-06-datastorytelling/</guid>
+  <pubDate>Wed, 06 Aug 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2025-08-06-datastorytelling/horst-eco-r4ds.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Hello, world!</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2025-05-03-PALiISaDS/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2025-05-03-PALiISaDS/</link>
   <description><![CDATA[ 
 
 
@@ -114,7 +114,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2025-05-03-PALiISaDS/lesson2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2025-05-03-PALiISaDS/lesson2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
@@ -141,14 +141,14 @@
   <category>PALiISaDS</category>
   <category>community-building</category>
   <category>learning-communities</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2025-05-03-PALiISaDS/</guid>
-  <pubDate>Sat, 03 May 2025 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2025-05-03-PALiISaDS/paliisads-logo-small.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2025-05-03-PALiISaDS/</guid>
+  <pubDate>Sat, 03 May 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2025-05-03-PALiISaDS/paliisads-logo-small.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Quarto for documenting Ocean Health Index (OHI) methods</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/</link>
   <description><![CDATA[ 
 
 
@@ -159,7 +159,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/ohi-quarto-green.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%" alt="Two side-by-side hexagons. The leftmost hexagon is blue with the word, `quarto`, and the Quarto logo, which is a circle divided into equal quadrants. The rightmost hexagon is blue with the words, 'Ocean Health Index', and the OHI logo, which looks like the flower plots that are characteristic of OHI score reporting."></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/ohi-quarto-green.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%" alt="Two side-by-side hexagons. The leftmost hexagon is blue with the word, `quarto`, and the Quarto logo, which is a circle divided into equal quadrants. The rightmost hexagon is blue with the words, 'Ocean Health Index', and the OHI logo, which looks like the flower plots that are characteristic of OHI score reporting."></p>
 </figure>
 </div>
 </div>
@@ -184,14 +184,14 @@
   <category>Ocean-Health-Index</category>
   <category>R</category>
   <category>Quarto</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/</guid>
-  <pubDate>Fri, 17 May 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/ohi-quarto.png" medium="image" type="image/png" height="82" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/</guid>
+  <pubDate>Fri, 17 May 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2024-05-17-OHI-quarto-websites/ohi-quarto.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
   <title>Just enough CSS (and Sass) for data scientists</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2023-08-03-just-enough-css/</link>
   <description><![CDATA[ 
 
 
@@ -241,15 +241,15 @@
   <category>NCEAS</category>
   <category>Quarto</category>
   <category>CSS</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/</guid>
-  <pubDate>Thu, 03 Aug 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/bob-ross.gif" medium="image" type="image/gif"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2023-08-03-just-enough-css/</guid>
+  <pubDate>Thu, 03 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2023-08-03-just-enough-css/bob-ross.gif" medium="image" type="image/gif"/>
 </item>
 <item>
   <title>Integrating JavaScript Libraries into R for Dynamic Visualizations</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
   <dc:creator>An Bui</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2023-05-23-js-in-r/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2023-05-23-js-in-r/</link>
   <description><![CDATA[ 
 
 
@@ -260,7 +260,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2023-05-23-js-in-r/leaflet.gif" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="An interactive map, created using the `{leaflet}` package in R, that is centered over coastal Santa Barbara. Lobster-shaped markers denote subtidal kelp forest research sites. THe user moves around the viewport, zooms in/out, toggles on map and marker layers, and clicks on the makrers to display additional site-level information."></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2023-05-23-js-in-r/leaflet.gif" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="An interactive map, created using the `{leaflet}` package in R, that is centered over coastal Santa Barbara. Lobster-shaped markers denote subtidal kelp forest research sites. THe user moves around the viewport, zooms in/out, toggles on map and marker layers, and clicks on the makrers to display additional site-level information."></p>
 </figure>
 </div>
 </div>
@@ -289,14 +289,14 @@
   <category>R</category>
   <category>JavaScript</category>
   <category>data-visualization</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2023-05-23-js-in-r/</guid>
-  <pubDate>Tue, 23 May 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2023-05-23-js-in-r/js_pkgs.png" medium="image" type="image/png" height="78" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2023-05-23-js-in-r/</guid>
+  <pubDate>Tue, 23 May 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2023-05-23-js-in-r/js_pkgs.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
   <title>An iterative approach to streamlining analytical workflows using functions and for loops</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2023-04-14-functions-forloops/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2023-04-14-functions-forloops/</link>
   <description><![CDATA[ 
 
 
@@ -307,7 +307,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2023-04-14-functions-forloops/an_bui_function-structure.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:55.0%" alt="A hand-drawn function showcasing the basic expected structure. The function is named 'my.function' and takes an arguement called, 'arguments'. A 'new.object' is created by something that takes 'arguments' and retruns 'new.object' at the end. Hand-drawn stars and a smiling Saturn-shaped planet are in the background."></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2023-04-14-functions-forloops/an_bui_function-structure.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:55.0%" alt="A hand-drawn function showcasing the basic expected structure. The function is named 'my.function' and takes an arguement called, 'arguments'. A 'new.object' is created by something that takes 'arguments' and retruns 'new.object' at the end. Hand-drawn stars and a smiling Saturn-shaped planet are in the background."></p>
 </figure>
 </div>
 </div>
@@ -335,14 +335,14 @@
   <category>R</category>
   <category>functions</category>
   <category>for-loops</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2023-04-14-functions-forloops/</guid>
-  <pubDate>Fri, 14 Apr 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2023-04-14-functions-forloops/an_bui_planet.png" medium="image" type="image/png" height="88" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2023-04-14-functions-forloops/</guid>
+  <pubDate>Fri, 14 Apr 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2023-04-14-functions-forloops/an_bui_planet.png" medium="image" type="image/png" height="88" width="144"/>
 </item>
 <item>
   <title>One workflow for building effective (and pretty) {ggplot2} data visualizations</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2023-03-16-ggplot2/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2023-03-16-ggplot2/</link>
   <description><![CDATA[ 
 
 
@@ -353,7 +353,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2023-03-16-ggplot2/ahorst_ggplot2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:55.0%" alt="A fuzzy monster in a beret and scarf, critiquing their own column graph on a canvas in front of them while other assistant monsters (also in berets) carry over boxes full of elements that can be used to customize a graph (like themes and geometric shapes). In the background is a wall with framed data visualizations. Stylized text reads &quot;ggplot2: build a data masterpiece.&quot;"></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2023-03-16-ggplot2/ahorst_ggplot2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:55.0%" alt="A fuzzy monster in a beret and scarf, critiquing their own column graph on a canvas in front of them while other assistant monsters (also in berets) carry over boxes full of elements that can be used to customize a graph (like themes and geometric shapes). In the background is a wall with framed data visualizations. Stylized text reads &quot;ggplot2: build a data masterpiece.&quot;"></p>
 </figure>
 </div>
 </div>
@@ -381,14 +381,14 @@
   <category>R</category>
   <category>ggplot2</category>
   <category>data-visualization</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2023-03-16-ggplot2/</guid>
-  <pubDate>Thu, 16 Mar 2023 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2023-03-16-ggplot2/ahorst_ggplot2_small.png" medium="image" type="image/png" height="95" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2023-03-16-ggplot2/</guid>
+  <pubDate>Thu, 16 Mar 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2023-03-16-ggplot2/ahorst_ggplot2_small.png" medium="image" type="image/png" height="95" width="144"/>
 </item>
 <item>
   <title>Adding a blog to your existing Quarto website</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2022-10-24-quarto-blogs/</link>
   <description><![CDATA[ 
 
 
@@ -399,7 +399,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/penguins.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:65.0%" alt="Two excited penguins diving off of an iceberg into the ocean. A Quarto logo 'moon' in the sky is reflected in the water that they're diving into."></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2022-10-24-quarto-blogs/penguins.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:65.0%" alt="Two excited penguins diving off of an iceberg into the ocean. A Quarto logo 'moon' in the sky is reflected in the water that they're diving into."></p>
 </figure>
 </div>
 </div>
@@ -428,14 +428,14 @@
   <category>blogging</category>
   <category>career-development</category>
   <category>personal-branding</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/</guid>
-  <pubDate>Mon, 24 Oct 2022 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/penguins.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2022-10-24-quarto-blogs/</guid>
+  <pubDate>Mon, 24 Oct 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2022-10-24-quarto-blogs/penguins.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Customizing Quarto Websites</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/</link>
   <description><![CDATA[ 
 
 
@@ -473,14 +473,14 @@
   <category>CSS</category>
   <category>career-development</category>
   <category>personal-branding</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/</guid>
-  <pubDate>Mon, 10 Oct 2022 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/sass_css.png" medium="image" type="image/png" height="91" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/</guid>
+  <pubDate>Mon, 10 Oct 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/sass_css.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 <item>
   <title>Creating your personal website using Quarto</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/</link>
   <description><![CDATA[ 
 
 
@@ -491,7 +491,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/penguins_telescope_2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:65.0%" alt="One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo 'moon' in the night sky."></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/penguins_telescope_2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:65.0%" alt="One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo 'moon' in the night sky."></p>
 </figure>
 </div>
 </div>
@@ -519,14 +519,14 @@
   <category>R</category>
   <category>Quarto</category>
   <category>career-development</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/</guid>
-  <pubDate>Fri, 05 Aug 2022 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/quarto_share.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/</guid>
+  <pubDate>Fri, 05 Aug 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/quarto_share.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>An Intro to Cloud Computing</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/</link>
   <description><![CDATA[ 
 
 
@@ -559,14 +559,14 @@
  ]]></description>
   <category>MEDS</category>
   <category>AWS</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/</guid>
-  <pubDate>Mon, 18 Apr 2022 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/clouds.gif" medium="image" type="image/gif"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/</guid>
+  <pubDate>Mon, 18 Apr 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2022-04-18-intro-to-cloud-computing/clouds.gif" medium="image" type="image/gif"/>
 </item>
 <item>
   <title>RStudio Tips &amp; Tricks</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2021-11-15-ide-tips-tricks/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2021-11-15-ide-tips-tricks/</link>
   <description><![CDATA[ 
 
 
@@ -602,14 +602,14 @@
  ]]></description>
   <category>MEDS</category>
   <category>R</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2021-11-15-ide-tips-tricks/</guid>
-  <pubDate>Mon, 15 Nov 2021 08:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2021-11-15-ide-tips-tricks/lightbulb.gif" medium="image" type="image/gif"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2021-11-15-ide-tips-tricks/</guid>
+  <pubDate>Mon, 15 Nov 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2021-11-15-ide-tips-tricks/lightbulb.gif" medium="image" type="image/gif"/>
 </item>
 <item>
   <title>Teach Me How to Google</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/</link>
   <description><![CDATA[ 
 
 
@@ -642,15 +642,15 @@
 
  ]]></description>
   <category>MEDS</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/</guid>
-  <pubDate>Mon, 11 Oct 2021 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/google.gif" medium="image" type="image/gif"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/</guid>
+  <pubDate>Mon, 11 Oct 2021 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2021-10-11-teach-me-how-to-google/google.gif" medium="image" type="image/gif"/>
 </item>
 <item>
   <title>Intro to the {tidyverse}</title>
   <dc:creator>Samantha Shanny-Csik</dc:creator>
   <dc:creator>An Bui</dc:creator>
-  <link>https://samanthacsik.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/</link>
+  <link>https://leemccoy.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/</link>
   <description><![CDATA[ 
 
 
@@ -661,7 +661,7 @@
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://samanthacsik.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/sam_an.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:65.0%" alt="Two women, Sam and An, stand smiling in front of a projector screen with a GitHub repository on display."></p>
+<p><img src="https://leemccoy.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/sam_an.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:65.0%" alt="Two women, Sam and An, stand smiling in front of a projector screen with a GitHub repository on display."></p>
 </figure>
 </div>
 </div>
@@ -691,9 +691,9 @@
   <category>data-wrangling</category>
   <category>data-visualization</category>
   <category>tidyverse</category>
-  <guid>https://samanthacsik.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/</guid>
-  <pubDate>Wed, 15 May 2019 07:00:00 GMT</pubDate>
-  <media:content url="https://samanthacsik.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/infinity.gif" medium="image" type="image/gif"/>
+  <guid>https://leemccoy.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/</guid>
+  <pubDate>Wed, 15 May 2019 04:00:00 GMT</pubDate>
+  <media:content url="https://leemccoy.github.io/talks_workshops/2019-05-15-intro-to-the-tidyverse/infinity.gif" medium="image" type="image/gif"/>
 </item>
 </channel>
 </rss>

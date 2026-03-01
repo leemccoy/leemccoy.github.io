@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Sam Shanny-Csik"
+  title: "Lee McCoy"
   # reader-mode: true
-  # repo-url: https://github.com/samanthacsik/samanthacsik.github.io
+  # repo-url: https://github.com/leemccoy/leemccoy.github.io
   # repo-actions: [edit, issue]
-  site-url: https://samanthacsik.github.io/
+  site-url: https://leemccoy.github.io/
   favicon: images/favicon/light-sage-chick.png
   google-analytics: 
-    tracking-id: "G-LW03VL0YTS" #"UA-242992767-1"
+    tracking-id: "G-SH7WN66KRS"
     anonymize-ip: true
   navbar:
     title: false
@@ -20,13 +20,9 @@ website:
       - href: index.qmd
         text: home
       - about.qmd
-      - href: talks_workshops.qmd
-        text: talks & workshops
-      - href: courses.qmd
-        text: courses
-      - href: projects.qmd
-        text: projects
-      - posts.qmd
+  #    - href: projects.qmd
+  #      text: projects
+  #    - posts.qmd
       - text: get in touch!
         menu:
           # - icon: "{{< iconify simple-icons bluesky >}}"
@@ -35,19 +31,18 @@ website:
           #   target: _blank
           - icon: linkedin
             text: LinkedIn
-            href: https://www.linkedin.com/in/samanthacsik/
+            href: https://www.linkedin.com/in/leemccoy/
             target: _blank
           - icon: envelope
             text: email
-            href: mailto:scsik@ucsb.edu
+            href: mailto:electleemccoy@hotmail.com
       - icon: github
-        href: https://github.com/samanthacsik/samanthacsik.github.io
+        href: https://github.com/leemccoy/leemccoy.github.io
         target: _blank
   page-footer: 
     background: light
-    left: © 2021 Samantha Shanny-Csik
-    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
-
+    left: © 2026 Lee McCoy
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/leemccoy/leemccoy.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, [Quarto](https://quarto.org/){target=_blank} and help from [Sam Csik](https://ucsb-meds.github.io/creating-quarto-websites/)
 format:
   html:
     page-layout: full
