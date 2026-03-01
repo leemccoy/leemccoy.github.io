@@ -42,7 +42,7 @@ website:
   page-footer: 
     background: light
     left: © 2026 Lee McCoy
-    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/leemccoy/leemccoy.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, [Quarto](https://quarto.org/){target=_blank} and help from [Sam Csik](https://ucsb-meds.github.io/creating-quarto-websites/)
+    right: Website built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/leemccoy/leemccoy.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, [Quarto](https://quarto.org/){target=_blank}, and resources from [Sam Csik](https://ucsb-meds.github.io/creating-quarto-websites/)
 format:
   html:
     page-layout: full

@@ -4,7 +4,7 @@ subtitle: "why I am running"
 title-block-banner: true
 ---
 
-Hamilton is a special place. I am thankful that my family lives in such a beautiful town with such a strong sense of community. I have come to appreciate how its strength comes from its people — those who have lived here for generations and those who have chosen to make it their home more recently.
+Hamilton is a special place. I am thankful my family lives in such a beautiful town with a strong sense of community. I have come to appreciate how its strength comes from its people — those who have lived here for generations and those who have chosen to make it their home more recently.
 
 ## my commitment
 
@@ -26,21 +26,26 @@ I am an ecologist and data scientist who has dedicated my career to public servi
 
 #### {{< fa briefcase >}} Professional Experience
 
+<div style="margin-left: 2em;">
 
-- {{< fa flask >}} **Data Scientist**, Pfizer  
+{{< fa flask >}} **Data Scientist**, Pfizer  
   *Biopharmaceutical production and operational efficiency*
 
-- {{< fa chart-line >}} **Data Scientist**, National Park Service  
+{{< fa chart-line >}} **Data Scientist**, National Park Service  
   *Natural Resource Inventory & Monitoring*
 
-- {{< fa leaf >}} **Ecologist**, USDA Agricultural Research Service  
+{{< fa leaf >}} **Ecologist**, USDA Agricultural Research Service  
   *Oyster aquaculture and ecosystem health*
 
+</div>
 
 #### {{< fa landmark >}} Community Leadership
 
 - **Chair, Hamilton Conservation Commission (2025)**  
   Worked collaboratively with residents, town staff, and regional partners to protect our natural resources while supporting the needs of our community.
+
+- **Volunteer at Accord Food Pantry (2026-current)**  
+  Retrieve donations from dropoff points and stock shelves.
   
 ---  
 
@@ -107,14 +112,16 @@ Strong communities depend on engaged residents and effective local government. W
 
 #### {{< fa compass title="Approach" >}} My Approach
 
-- {{< fa users >}} Increase visibility of volunteer opportunities on boards and commissions  
+<div style="margin-left: 2em;">
 
-- {{< fa scale-balanced >}} Balance workloads to prevent burnout and improve effectiveness  
+{{< fa users >}} Increase visibility of volunteer opportunities on boards and commissions  
 
-- {{< fa award >}} Recognize and celebrate the contributions of volunteers  
+{{< fa scale-balanced >}} Balance workloads to prevent burnout and improve effectiveness  
 
-- {{< fa comments >}} Use modern tools to improve communication and participation  
+{{< fa award >}} Recognize and celebrate the contributions of volunteers  
 
-- {{< fa gears >}} Identify opportunities to streamline processes and reduce unnecessary costs  
+{{< fa comments >}} Use modern tools to improve communication and participation  
 
+{{< fa gears >}} Identify opportunities to streamline processes and reduce unnecessary costs  
 
+</div>
