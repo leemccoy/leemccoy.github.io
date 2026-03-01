@@ -8,39 +8,8 @@
     ]
   },
   {
-    "listing": "/courses.html",
-    "items": [
-      "/courses/eds-240-data-viz/index.html",
-      "/courses/eds-296-shiny/index.html",
-      "/courses/eds-296-ds-portfolios/index.html",
-      "/courses/career-dev/index.html"
-    ]
-  },
-  {
-    "listing": "/talks_workshops.html",
-    "items": [
-      "/talks_workshops/2025-09-24-personal-branding/index.html",
-      "/talks_workshops/2025-08-06-datastorytelling/index.html",
-      "/talks_workshops/2025-05-03-PALiISaDS/index.html",
-      "/talks_workshops/2024-05-17-OHI-quarto-websites/index.html",
-      "/talks_workshops/2023-08-03-just-enough-css/index.html",
-      "/talks_workshops/2023-05-23-js-in-r/index.html",
-      "/talks_workshops/2023-04-14-functions-forloops/index.html",
-      "/talks_workshops/2023-03-16-ggplot2/index.html",
-      "/talks_workshops/2022-10-24-quarto-blogs/index.html",
-      "/talks_workshops/2022-10-10-customizing-quarto-websites/index.html",
-      "/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/index.html",
-      "/talks_workshops/2022-04-18-intro-to-cloud-computing/index.html",
-      "/talks_workshops/2021-11-15-ide-tips-tricks/index.html",
-      "/talks_workshops/2021-10-11-teach-me-how-to-google/index.html",
-      "/talks_workshops/2019-05-15-intro-to-the-tidyverse/index.html"
-    ]
-  },
-  {
     "listing": "/posts.html",
     "items": [
-      "/posts/data-viz-2.0/index.html",
-      "/posts/automating-shiny-updates/index.html",
       "/posts/2024-04-02-data-viz-course/index.html",
       "/posts/2023-08-01-openscapes-website/index.html",
       "/posts/2022-10-24-quarto-blogs/index.html",
