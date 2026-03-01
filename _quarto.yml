@@ -8,14 +8,14 @@ website:
   # repo-url: https://github.com/leemccoy/leemccoy.github.io
   # repo-actions: [edit, issue]
   site-url: https://leemccoy.github.io/
-  favicon: images/favicon/light-sage-chick.png
+  favicon: images/favicon/LMicon.png
   google-analytics: 
     tracking-id: "G-SH7WN66KRS"
     anonymize-ip: true
   navbar:
     title: false
-    logo: images/logos/shanny-csik-logo-transparent-dark.png
-    logo-alt: "The name 'sam shanny-csik' written in green text. Above 'csik' is a green horizontal line, above which sits a green chick icon."
+    logo: images/logos/ElectLeeMcCoy_YardSign_Web.png
+    logo-alt: "The yard sign for Elect Lee McCoy Hamilton Select Board"
     right:
       - href: index.qmd
         text: home
@@ -29,16 +29,13 @@ website:
           #   text: Bluesky
           #   href: https://bsky.app/profile/samcsik.bsky.social
           #   target: _blank
-          - icon: linkedin
-            text: LinkedIn
-            href: https://www.linkedin.com/in/leemccoy/
+          - icon: facebook
+            text: Facebook
+            href: https://www.facebook.com/electleemccoy
             target: _blank
           - icon: envelope
             text: email
             href: mailto:electleemccoy@hotmail.com
-      - icon: github
-        href: https://github.com/leemccoy/leemccoy.github.io
-        target: _blank
   page-footer: 
     background: light
     left: © 2026 Lee McCoy
