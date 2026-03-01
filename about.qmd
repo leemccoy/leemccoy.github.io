@@ -28,24 +28,27 @@ I am an ecologist and data scientist who has dedicated my career to public servi
 
 <div style="margin-left: 2em;">
 
-{{< fa flask >}} **Data Scientist**, Pfizer  
+- **Data Scientist**, Pfizer  
   *Biopharmaceutical production and operational efficiency*
 
-{{< fa chart-line >}} **Data Scientist**, National Park Service  
+- **Data Scientist**, National Park Service  
   *Natural Resource Inventory & Monitoring*
 
-{{< fa leaf >}} **Ecologist**, USDA Agricultural Research Service  
+- **Ecologist**, USDA Agricultural Research Service  
   *Oyster aquaculture and ecosystem health*
 
 </div>
 
 #### {{< fa landmark >}} Community Leadership
 
+<div style="margin-left: 2em;">
+
 - **Chair, Hamilton Conservation Commission (2025)**  
   Worked collaboratively with residents, town staff, and regional partners to protect our natural resources while supporting the needs of our community.
 
 - **Volunteer at Accord Food Pantry (2026-current)**  
   Retrieve donations from dropoff points and stock shelves.
+</div>
   
 ---  
 
