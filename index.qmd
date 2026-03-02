@@ -26,7 +26,7 @@ about:
 ---
 
 ::: {#bio}
-Hi there! I'm Lee McCoy. I am running for the **Select Board of Hamilton, MA** because I have a strong desire to bring people together and build community. I am the type of person who likes get things done through a combination of problem solving and dogged determination. I would be proud to serve Hamilton and to help ensure it remains a place where all people can live, thrive, and belong. Poke around to learn more [about me](about.qmd) and what I want to accomplish for Hamilton!
+Hi there! I'm Lee McCoy. I am running for the **Select Board of Hamilton, MA** because I have a strong desire to bring people together and build community. I am the type of person who likes to get things done through a combination of problem solving and dogged determination. I would be proud to serve Hamilton and to help ensure it remains a place where all people can live, thrive, and belong. Poke around to learn more [about me](about.qmd) and what I want to accomplish for Hamilton!
 :::
 
 ::: {#landing-icons}
